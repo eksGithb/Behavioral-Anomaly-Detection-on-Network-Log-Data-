@@ -1,7 +1,6 @@
 # Behavioral Anomaly Detection on Network Log Data
 
 **Tools:** Python · Scikit-learn · PostgreSQL · Matplotlib · Seaborn  
-**Timeline:** March 2025
 
 ---
 
